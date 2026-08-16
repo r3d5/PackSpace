@@ -2,7 +2,7 @@
 
 ## Public project repository
 
-This repository is the public source for the PackSpace Lens and its sharing API.
+[https://github.com/r3d5/PackSpace](https://github.com/r3d5/PackSpace) is the public source for the PackSpace Lens and its sharing API.
 
 ## Demo video
 
