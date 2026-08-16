@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/c5313335-0f24-4506-85a1-ba36277497bb>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> a1c53ff2-7ce9-4f00-b42b-8145246ccfd5
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> a1c53ff2-7ce9-4f00-b42b-8145246ccfd5
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 544148ba-c218-4346-9c6a-3c51e900c11e
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/544148ba-c218-4346-9c6a-3c51e900c11e>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 99efe135-7d7a-4ce0-bff2-8f48015087da
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    listText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - listText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Component.Text listText {"hint":"Screen Text component used for the always-visible packing list"}'

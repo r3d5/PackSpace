@@ -1,0 +1,67 @@
+- !<AssetImportMetadata/a86628bd-ea9c-40b0-bd68-9912ece524f0>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> ab06204e-f30e-47f6-85de-e483e64a25ce
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> ab06204e-f30e-47f6-85de-e483e64a25ce
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 650a88c3-8344-4df5-8802-c6f1ad6cf78d
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/650a88c3-8344-4df5-8802-c6f1ad6cf78d>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: c21af6af-799a-41a1-9eb9-2dcd3998b3a2
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    audioController: false
+    authoringUI: false
+    backendBaseUrl: false
+    debugColliders: false
+    hud: false
+    menuUI: false
+    workspaceUI: false
+    worldController: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - backendBaseUrl: ""
+      menuUI: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      workspaceUI: !<MappingBased.AssignableType_2> 00000000-0000-0000-0000-000000000000
+      worldController: !<MappingBased.AssignableType_3> 00000000-0000-0000-0000-000000000000
+      audioController: !<MappingBased.AssignableType_4> 00000000-0000-0000-0000-000000000000
+      hud: !<MappingBased.AssignableType_5> 00000000-0000-0000-0000-000000000000
+      authoringUI: !<MappingBased.AssignableType_6> 00000000-0000-0000-0000-000000000000
+      debugColliders: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input string backendBaseUrl {"hint":"Public PackSpace API base URL, without a trailing slash"}'
+    - '// @input AssignableType_1 menuUI {"hint":"Launcher and custom-preset editor UI"}'
+    - '// @input AssignableType_2 workspaceUI {"hint":"Spatial pack-area view"}'
+    - '// @input AssignableType_3 worldController {"hint":"World Query placement controller"}'
+    - '// @input AssignableType_4 audioController {"hint":"PackSpace feedback audio controller"}'
+    - '// @input AssignableType_5 hud {"hint":"Always-visible screen-space packing summary"}'
+    - '// @input AssignableType_6 authoringUI {"hint":"Spatial category and item authoring surface"}'
+    - '// @input bool debugColliders {"hint":"Draw collider bounds while diagnosing interactions"}'

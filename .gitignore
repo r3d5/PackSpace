@@ -1,0 +1,42 @@
+# BEGIN Lens Studio managed Agents-Docs block
+.mcp.json
+.cursor/mcp.json
+.vscode/mcp.json
+.codex/config.toml
+.claude/settings.local.json
+# END Lens Studio managed Agents-Docs block
+
+# Lens Studio generated and machine-local state
+Cache/
+Support/
+Workspaces/
+PluginsUserPreferences/
+*.esproj.*.lock
+.virtual-scene.json
+.font_tmp/
+.icon_tmp/
+tempAssetGen/
+
+# Local agent/editor configuration
+.claude/
+.codex/
+.cursor/
+.vscode/
+AGENTS.md
+CLAUDE.md
+
+# Dependencies and deployment state
+node_modules/
+backend/node_modules/
+.vercel/
+backend/.vercel/
+
+# Private signing material and OS files
+*.pem
+.DS_Store
+
+# Superseded local preview captures
+packspace-menu.png
+packspace-menu-fixed.png
+packspace-workspace.png
+packspace-workspace-fixed.png

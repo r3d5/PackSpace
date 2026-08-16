@@ -1,0 +1,14 @@
+{
+  "name": "packspace-share-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev",
+    "test": "node --test"
+  },
+  "engines": {"node": ">=20"},
+  "dependencies": {
+    "@vercel/blob": "^2.0.0"
+  }
+}
