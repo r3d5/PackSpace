@@ -1,6 +1,6 @@
 # PackSpace Demo Video Script
 
-Target length: **2 minutes 20 seconds**  
+Target length: **2 minutes 24 seconds**
 Format: Lens Studio Preview screen recording + companion website recording + ElevenLabs voice-over.
 
 ## Recording checklist
@@ -63,23 +63,23 @@ Format: Lens Studio Preview screen recording + companion website recording + Ele
 
 > Presets, item states, and spatial placements are stored locally. When I continue later, PackSpace restores the session instead of asking me to place every area again.
 
-### 1:38–1:57 — Companion website and code sharing
+### 1:38–1:59 — Collaborative list creation on Pack ’n Link
 
-**Video:** Cut to the website. Create a short categorized list, save it, and clearly show the generated six-character code.
+**Video:** Cut to [pack-n-link.lovable.app](https://pack-n-link.lovable.app). Create a short categorized list, save it, and clearly show the generated six-character code. Briefly show that the site works as a standalone public experience—not an internal developer tool.
 
 **Voice-over:**
 
-> Lists can also be prepared on the companion website. A friend creates categories and items, saves the list to the Vercel backend, and shares one short six-character pack code.
+> PackSpace is also collaborative. Anyone can open Pack ’n Link from a browser, create categories and items, and send one short code to the person wearing Specs. Your partner might send everything they want packed for a trip, while you handle the physical task hands-free.
 
-### 1:57–2:10 — Import into Specs
+### 1:59–2:12 — Import into Specs
 
 **Video:** Return to Lens Studio. Open Import Pack Code, type the code, import it, and show the saved preset in the menu.
 
 **Voice-over:**
 
-> In Specs, I enter that code once. The Lens validates and downloads the preset, then saves it locally so it is ready for spatial placement.
+> In Specs, I enter that code once. The Lens validates and downloads the complete request, saves it locally, and turns somebody else’s list into my spatial packing workspace.
 
-### 2:10–2:20 — CLAD and closing
+### 2:12–2:24 — CLAD and closing
 
 **Video:** Finish on a wide view of multiple outlined areas and the checklist. Optionally overlay “Built with CLAD + Lens Studio.”
 

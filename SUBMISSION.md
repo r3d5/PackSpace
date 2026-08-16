@@ -16,11 +16,13 @@ The curated prompt transcript and AI-assisted workflow are included in [CLAD_AI_
 
 ## Project description
 
-PackSpace is a spatial packing assistant for Snap Specs. It transforms real horizontal surfaces—such as tables, sofas, chairs, and floors—into persistent category zones for clothes, technology, essentials, or any custom packing list. Users physically gather objects into those zones, manually mark each item as collected, and follow overall progress through a compact head-locked checklist.
+PackSpace is a collaborative spatial packing assistant for Snap Specs. It transforms real horizontal surfaces—such as tables, sofas, chairs, and floors—into persistent category zones for clothes, technology, essentials, or any custom packing list. Users physically gather objects into those zones, manually mark each item as collected, and follow overall progress through a compact head-locked checklist.
 
-The project responds to the theme by making physical space part of the product rather than displaying a conventional checklist in AR. Each packing area can live on a different detected surface and height, remains visible while the next area is placed, and is restored when the session resumes. A companion web flow lets friends create categorized lists and share them through a six-character code that can be imported and saved on Specs.
+The project responds to the theme by making physical space part of the product rather than displaying a conventional checklist in AR. Each packing area can live on a different detected surface and height, remains visible while the next area is placed, and is restored when the session resumes.
 
-PackSpace is for travelers, commuters, students, families, and anyone preparing equipment or belongings while moving around a room and using both hands.
+Its public companion website, [Pack ’n Link](https://pack-n-link.lovable.app), makes the experience collaborative. Anyone can create a categorized packing request from a browser and send its six-character code to the Specs wearer. For example, a girlfriend can prepare the exact list of belongings she wants her partner to pack; the partner imports the code, lays those categories out around the room, and completes the request hands-free. The same flow works for families, travel partners, production crews, sports teams, and equipment checklists.
+
+PackSpace is for travelers, couples, families, students, teams, and anyone coordinating or carrying out a physical packing task while moving around a room and using both hands.
 
 ## How CLAD was used
 

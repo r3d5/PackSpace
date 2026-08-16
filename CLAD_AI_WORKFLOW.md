@@ -152,6 +152,8 @@ Preset definitions, completion states, and placement information were persisted 
 
 The Lens received a six-character import interface and network client. Codes exclude visually ambiguous characters. Downloaded presets are validated before being stored locally.
 
+The public companion site, [Pack ’n Link](https://pack-n-link.lovable.app), completes the collaborative workflow. The list creator does not need Specs: a partner, friend, family member, or teammate can define the request from any browser and send only the short code to the person carrying out the physical packing task.
+
 ### 9. Creating and deploying the backend
 
 **Prompt**
@@ -220,4 +222,5 @@ The completed prototype demonstrates an experience designed specifically for Spe
 - Users create their own spatial presets.
 - Packing progress persists between sessions.
 - Friends can share list templates using a short code.
+- People without Specs can create packing requests at [pack-n-link.lovable.app](https://pack-n-link.lovable.app) for a Specs wearer to complete.
 - Individual categories can occupy different horizontal surfaces and heights.
